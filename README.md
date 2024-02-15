@@ -1,10 +1,9 @@
 
-    <head>
+
         <title>mm</title>
         <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" >
         <style>
          .A{
-    /*color de border*/
     border: 4px #d4a589 ;
     width: 300px;
     align-items: center;
@@ -13,10 +12,8 @@
     margin-left: 35px;
     margin-right: 20px;
     margin-top: 20px;
-    /*color de padding de berder*/
     background-color: rgb(247, 228, 228);
           }
-          /*pour les images*/
           img{
             width:230px ;
             height: 300px;
@@ -41,10 +38,6 @@
             justify-content: space-between;
             z-index: 1000;
             box-shadow: 0 .5rem 1rem rgb(0,0,0,.1);
-        }
-        :root{
-            /*colore de . et  romone rt enfant..*/
-            ---pink:#fce7e7;
         }
         header .logo{
             font-size: 3rem;
@@ -134,10 +127,7 @@
         }
        
 
-   /* section{
-            padding: 2rem 9%;
-        
-        }*/
+   
 
     html{
             font-size: 62.5%;
@@ -162,7 +152,6 @@
 
     header .logo{
             font-size: 3rem;
-            /*colore de lire*/
             color: #d4a589;
             font-weight: bolder;
         }
@@ -172,12 +161,7 @@
             }
         }  
 
-     /*   .bou{
-       background: scroll;
-       border:thin 2px;
-       width: 200px;
-       height: 300px;
-    }*/
+     
     
     @media (max-width:991px){
             html{
@@ -265,16 +249,16 @@
                 outline: none;/*pour enlever la bordure  rgb(159, 189, 245)*/
                 
             }
-  /*A:hover{
+  A:hover{
     width: 300px;
     height:  430px;
     background-color: darkmagenta;
   }
 
 
-  /**/
+  
  .h2{
-/*pour le titre*/
+
 color: rgb(63, 74, 168);
 margin-left:40px;
 margin-top: 4px;
